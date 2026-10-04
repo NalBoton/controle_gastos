@@ -30,6 +30,7 @@ Atualmente, o programa possui as seguintes opções:
 * ➖ Aplicar uma despesa de **R$ 100**
 * ✏️ Informar uma despesa personalizada
 * 📊 Consultar o saldo atual
+* ⏳ Consultar o histórico das despesas
 * 📖 Visualizar as instruções do programa
 * 🚪 Encerrar o programa mostrando o saldo final
 
@@ -59,10 +60,7 @@ O projeto ainda está em desenvolvimento e novas funcionalidades podem ser adici
 
 Algumas ideias para futuras versões:
 
-* [ ] Armazenar o histórico das despesas
 * [ ] Exibir o valor total gasto
-* [ ] Melhorar a validação dos valores inseridos
-* [ ] Permitir valores com centavos
 * [ ] Melhorar o sistema de menu
 * [ ] Exportar um relatório das despesas
 * [ ] Criar uma interface gráfica
